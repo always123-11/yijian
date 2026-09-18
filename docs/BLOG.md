@@ -6,7 +6,7 @@
 | 这个作业要求在哪里 | [软件工程第二次个人作业](https://edu.cnblogs.com/campus/fzu/2026-01SoftwareEngineeringandSoftwareEngineeringPractice/homework/16718) |
 | 这个作业的目标 | 使用 Python 和 AIGC 完成一款「一箭一箭」小游戏 |
 | 学号 | `XXXXXXXX`（提交前请填写） |
-| GitHub 仓库 | `https://github.com/<你的用户名>/yijian`（提交前请替换） |
+| GitHub 仓库 | [https://github.com/always123-11/yijian](https://github.com/always123-11/yijian) |
 
 ---
 
@@ -20,13 +20,13 @@
 
 ### 1.1 开始界面
 
-![开始界面](https://raw.githubusercontent.com/REPO/docs/images/01_menu.png)
+![开始界面](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/01_menu.png)
 
 ### 1.2 游戏界面
 
 关卡名、剩余箭头数、剩余次数、进度条、操作提示都在界面上实时显示：
 
-![游戏界面](https://raw.githubusercontent.com/REPO/docs/images/02_playing_level1.png)
+![游戏界面](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/02_playing_level1.png)
 
 ### 1.3 悬停提示与路径预览
 
@@ -34,26 +34,25 @@
 
 | 可以飞出（绿色） | 被挡住（红色，并提示是哪个方向挡住的） |
 | --- | --- |
-| ![悬停](https://raw.githubusercontent.com/REPO/docs/images/03_hover_hint.png) | ![被挡悬停](https://raw.githubusercontent.com/REPO/docs/images/03b_hover_blocked.png) |
+| ![悬停](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/03_hover_hint.png) | ![被挡悬停](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/03b_hover_blocked.png) |
 
 ### 1.4 被挡住时的反馈
 
 箭头不消失，而是**原地抖动变红**，同时弹出「被挡住了!」的飘字提示：
 
-![被挡住](https://raw.githubusercontent.com/REPO/docs/images/04_blocked_feedback.png)
+![被挡住](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/04_blocked_feedback.png)
 
 ### 1.5 通关与失败界面
 
 | 通关 | 失败 |
 | --- | --- |
-| ![通关](https://raw.githubusercontent.com/REPO/docs/images/06_level_cleared.png) | ![失败](https://raw.githubusercontent.com/REPO/docs/images/07_level_failed.png) |
+| ![通关](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/06_level_cleared.png) | ![失败](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/07_level_failed.png) |
 
 ### 1.6 全部通关
 
-![全部通关](https://raw.githubusercontent.com/REPO/docs/images/08_all_done.png)
+![全部通关](https://raw.githubusercontent.com/always123-11/yijian/main/docs/images/08_all_done.png)
 
-> 提示：把上面的 `REPO` 替换成你实际的 GitHub 仓库路径，图片就能正常显示了。
-> 也可以直接把 `docs/images/` 里的图片上传到博客园后替换链接。
+> 说明：以上截图直接引用 GitHub 仓库 `docs/images/` 中的图片，无需另外上传。
 
 ---
 

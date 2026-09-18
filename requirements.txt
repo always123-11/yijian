@@ -1,0 +1,16 @@
+# 一箭一箭 · Arrow Away —— 依赖清单
+#
+# Pygame 有两种等价的发行版, 装其中任意一个即可:
+#   * pygame      —— 官方版
+#   * pygame-ce   —— 社区维护版 (Community Edition), 对新版 Python 支持更快
+#
+# 两者都提供 `import pygame`, 本项目代码不需要任何改动。
+#
+# 如果你的 Python 版本较新 (例如 3.13/3.14) 而 `pip install pygame` 报编译错误,
+# 请改用 pygame-ce。
+#
+# --- 方案 A: 官方 pygame (Python 3.10 ~ 3.12 通常可直接安装) ---
+# pygame>=2.5.0
+#
+# --- 方案 B: pygame-ce (推荐, 开发环境即使用此版本) ---
+pygame-ce>=2.5.0

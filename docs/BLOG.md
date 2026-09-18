@@ -5,7 +5,7 @@
 | 这个作业属于哪个课程 | [2026 秋软件工程与实践（福州大学·计算机与大数据学院）](https://edu.cnblogs.com/campus/fzu/2026-01SoftwareEngineeringandSoftwareEngineeringPractice) |
 | 这个作业要求在哪里 | [软件工程第二次个人作业](https://edu.cnblogs.com/campus/fzu/2026-01SoftwareEngineeringandSoftwareEngineeringPractice/homework/16718) |
 | 这个作业的目标 | 使用 Python 和 AIGC 完成一款「一箭一箭」小游戏 |
-| 学号 | `XXXXXXXX`（提交前请填写） |
+| 学号 | `102402152` |
 | GitHub 仓库 | [https://github.com/always123-11/yijian](https://github.com/always123-11/yijian) |
 
 ---
@@ -408,6 +408,10 @@ _DIR_ANGLE = {"^": 0, ">": 90, "v": 180, "<": 270}
 ---
 
 ## 7. PSP 表格
+
+> 说明：下表的实际耗时是对整个开发过程的整体估算（依据各模块的实际工作量
+> 与调试过程中遇到的问题量回顾得出），并非逐分钟精确计时，用于反映各阶段的
+> 时间分配与偏差情况。
 
 | 任务 | 预计耗时（小时） | 实际耗时（小时） | 差异（小时） |
 | --- | --- | --- | --- |
